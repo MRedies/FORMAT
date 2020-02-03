@@ -1,0 +1,6 @@
+[package]
+name = "FORmat"
+version = "0.1.0"
+authors = ["Matthias Redies <m.redies@fz-juelich.de>"]
+
+[dependencies]
