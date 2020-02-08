@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Matthias Redies <m.redies@fz-juelich.de>"]
 
 [dependencies]
+clap = "2.*.*"
